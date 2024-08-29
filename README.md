@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandyNguyen2
-- 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning algorithm engineering, software engineering, file structure and databases
+- 👀 I’m interested in learning new languages and skills
+- 🌱 I’m currently learning Artificial Intelligence, Compilers, Operating Systems, Software Testing, and iOS mobile device application programming
 - 💞️ I’m looking to collaborate on new challenging projects!
 - 📫 How to reach Brandy.Nguyen02@yahoo.com
 - 😄 Pronouns: He/Him
