@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-BrandyNguyen2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandynguyen02/)](https://www.linkedin.com/in/brandynguyen02/)
 [![Yahoo Badge](https://img.shields.io/badge/-Brandy.Nguyen02@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:Brandy.Nguyen02@yahoo.com)](mailto:Brandy.Nguyen02@yahoo.com)
 
-## ⚡ My tech stack:
+## 💻 My tech stack:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -33,10 +33,8 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ## My stats:
-[![Brandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandyNguyen2)](https://github.com/BrandyNguyen2/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandyNguyen2&theme=algolia&layout=compact&langs_count=10">
-
+[![Brandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandyNguyen2)](https://github.com/BrandyNguyen2/github-readme-stats)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandyNguyen2&theme=algolia&layout=compact&langs_count=10"><br/>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BrandyNguyen2)
 <!---
 BrandyNguyen2/BrandyNguyen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
