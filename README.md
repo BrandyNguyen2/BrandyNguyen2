@@ -34,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ## My stats:
 [![Brandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandyNguyen2)](https://github.com/BrandyNguyen2/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandyNguyen2&theme=algolia&layout=compact&langs_count=10">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BrandyNguyen2)
