@@ -32,7 +32,7 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-## My stats:
+## 📈 My stats:
 [![Brandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandyNguyen2)](https://github.com/BrandyNguyen2/github-readme-stats)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandyNguyen2&theme=algolia&layout=compact&langs_count=10"><br/>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BrandyNguyen2)
