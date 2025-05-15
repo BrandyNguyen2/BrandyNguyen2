@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - 😎 Fun fact: I collect Star Wars figurines
 
-## 👋 Visit my portfolio website!
+## 😃 Visit my portfolio website!
 https://portfolio-sand-gamma-88.vercel.app/index.html
 
 ## 📫 How to reach me:
