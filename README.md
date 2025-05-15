@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brandy Nguyen!
-- 👀 I’m interested in learning new programming languages and skills
-- 🌱 I’m currently learning Frontend engineering, Backend engineering, Computer Networks, and Software Design
+- 👀 I’m interested in learning new programming skills!
+- 🌱 I’m currently a software test engineer at Applied Medical!
 - 👨‍💻 I’m looking to collaborate on new challenging projects!
 - 😄 Pronouns: He/Him
 - 😎 Fun fact: I collect Star Wars figurines
