@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brandy Nguyen!
 - 👀 I’m interested in learning new programming skills!
-- 🌱 I’m currently a Software Test Engineer at Applied Medical!
+- 🌱 I’m currently a Software Test Engineer 1 at Applied Medical!
 - 👨‍💻 I’m looking to collaborate on new challenging projects!
 - 😄 Pronouns: He/Him
 - 😎 Fun fact: I collect Star Wars figurines
