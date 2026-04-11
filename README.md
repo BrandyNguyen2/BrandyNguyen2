@@ -10,7 +10,6 @@ https://portfolio-sand-gamma-88.vercel.app/index.html
 
 ## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-BrandyNguyen2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandynguyen02/)](https://www.linkedin.com/in/brandynguyen02/)
-[![Yahoo Badge](https://img.shields.io/badge/-Brandy.Nguyen02@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:Brandy.Nguyen02@yahoo.com)](mailto:Brandy.Nguyen02@yahoo.com)
 
 ## 💻 My tech stack:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
